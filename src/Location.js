@@ -31,7 +31,9 @@ const Location = () => {
         <div className="row">
           <div className="col col-4"></div>
           <div className="col col-4">
-            <img src={jMainMap} alt="Map" />
+            <a href={jMainMap}>
+              <img src={jMainMap} alt="Map" />
+            </a>
             <div className="col col-4"></div>
           </div>
           <div className="col col-4"></div>
