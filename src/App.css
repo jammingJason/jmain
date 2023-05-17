@@ -1,3 +1,22 @@
+@font-face {
+  font-family: "Rastanty Cortez";
+  src: url('./fonts/RastantyCortez.ttf');
+}
+body{
+   font-family: "Rastanty Cortez";
+      /* font-size: 3rem; */
+}
+
+.boxshadow{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/* ********************  This is for the old App  ********************** */
 .App {
   text-align: center;
 }
