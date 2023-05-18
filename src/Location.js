@@ -20,23 +20,22 @@ const Location = () => {
         </div>
         <div className="row">
           <div className="col col-12">
-            <h1>
+            <p style={{ fontSize: '4rem' }}>
               622 Main Street
               <br />
               Blackshear, GA
-            </h1>
+            </p>
           </div>
         </div>
 
         <div className="row">
-          <div className="col col-4"></div>
-          <div className="col col-4">
+          <div className="col col-3"></div>
+          <div className="col col-6">
             <a href={jMainMap}>
               <img src={jMainMap} alt="Map" />
             </a>
-            <div className="col col-4"></div>
+            <div className="col col-3"></div>
           </div>
-          <div className="col col-4"></div>
         </div>
       </div>
     </>

@@ -11,7 +11,7 @@ const Home = () => {
       <div className="container">
         <div className="row">
           <div className="col col-12">
-            <h1>Welcome!</h1>
+            <p style={{ fontSize: '4rem' }}>Welcome!</p>
           </div>
         </div>
         <div className="row">

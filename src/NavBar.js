@@ -27,16 +27,12 @@ const NavBar = () => {
                 <ul className="navbar-nav">
                   <li className="nav-item">
                     <a className="nav-link" href="/location">
-                      <h2>
-                        <b>Find Us</b>
-                      </h2>
+                      <b>Find Us</b>
                     </a>
                   </li>
                   <li className="nav-item">
                     <a className="nav-link" href="/menu">
-                      <h2>
-                        <b>Menu</b>
-                      </h2>
+                      <b>Menu</b>
                     </a>
                   </li>
                   <li className="nav-item">
@@ -45,9 +41,7 @@ const NavBar = () => {
                       aria-current="page"
                       href="/pictures"
                     >
-                      <h2>
-                        <b>Pictures</b>
-                      </h2>
+                      <b>Pictures</b>
                     </a>
                   </li>
                   <li className="nav-item">
@@ -56,9 +50,7 @@ const NavBar = () => {
                       aria-current="page"
                       href="https://tables.toasttab.com/restaurants/b74048cd-90a9-498a-8c00-ce569fb952be/findTime?fbclid=IwAR3vQjIPqQDJpK6KTLG9LI7BoqVfU1XkE3_wpcAEY38rdSz8esPDoz8uJzg"
                     >
-                      <h2>
-                        <b>Reservations</b>
-                      </h2>
+                      <b>Reservations</b>
                     </a>
                   </li>
                   <li className="nav-item">

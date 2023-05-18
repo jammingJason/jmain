@@ -20,7 +20,7 @@ const Pictures = () => {
       <div className="container">
         <div className="row">
           <div className="col col-12">
-            <h1>Enjoy!</h1>
+            <p style={{ fontSize: '4rem' }}>Enjoy!</p>
           </div>
         </div>
 
